@@ -1,0 +1,23 @@
+name: Matt Barber
+favicon: null
+layout_spectrum: 0.6580515692476183
+typography_spectrum: 0.031839492032304406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9038803316652775
+  lightness: 0.4594820358324796
+  saturation: 0.736760874511674
+  rhythmicContrast: 0.08023879723623395
+purpose: []
